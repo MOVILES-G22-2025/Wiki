@@ -6,7 +6,7 @@ We are group number 22 and this is our progress
 
 [Flutter Repository](https://github.com/MOVILES-G22-2025/Flutter)
 
-[Swift Repository](https://github.com/MOVILES-G22-2025/Kotlin)
+[Kotlin Repository](https://github.com/MOVILES-G22-2025/Kotlin)
 
 [Backend Repository](https://github.com/MOVILES-G22-2025/Backend)
 
